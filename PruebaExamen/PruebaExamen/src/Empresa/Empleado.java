@@ -3,7 +3,7 @@ package Empresa;
 import java.util.Objects;
 
 public class Empleado {
-
+//este comentario lo ha echo hugocarni
 	// Atributos
 
 		private final String nombre;
